@@ -1,6 +1,9 @@
 
 # Limpieza y resumen de datos en hojas de cálculo ✖️ ➕
 
+>[!NOTE]
+> PROYECTO REALIZADO EN TRIPLETEN
+
 Se analizaron los datos de ventas del último trimestre para preparar un informe ejecutivo.Se limpiaron, organizaron y extrajo la información clave para la tomar decisiones estratégicas.
 
 
